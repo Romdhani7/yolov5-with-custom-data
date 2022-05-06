@@ -1,5 +1,5 @@
 # yolov5-with-custom-data
-
+n this project I made a special case which is the detection of ambulance army car police car and give it priority .
 ![image](https://user-images.githubusercontent.com/89159517/167204110-18accadb-b06d-45cc-8a67-3bab0b17632c.png)
 
 
