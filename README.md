@@ -4,6 +4,15 @@ History and architecture of YOLO v5
 ![image](https://user-images.githubusercontent.com/89159517/167203515-6142633b-d731-4e94-93c5-aa1f8e442326.png)
 
 
+
+
+
+
+
+
+
+
+
 Yolo V5 Architecture
 CNN-based Object Detectors are primarily applicable for recommendation systems. YOLO (You Only Look Once) models are used for Object detection with high performance. YOLO divides an image into a grid system, and each grid detects objects within itself. They can be used for real-time object detection based on the data streams. They require very few computational resources.
 
