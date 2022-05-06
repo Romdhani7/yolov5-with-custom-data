@@ -46,6 +46,8 @@ results.print()  # or .show(), .save(), .crop(), .pandas(), etc.
 
 
 
+
+
 Object Detection Algorithm — YOLO v5 Architecture
 History and architecture of YOLO v5
 ![image](https://user-images.githubusercontent.com/89159517/167203515-6142633b-d731-4e94-93c5-aa1f8e442326.png)
