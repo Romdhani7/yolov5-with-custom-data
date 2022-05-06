@@ -21,5 +21,6 @@ History of YOLO
 Yolov1 (Jun 8th, 2015): You Only Look Once: Unified, Real-Time Object Detection
 Yolov2 (Dec 25th, 2016): YOLO9000:Better, Faster, Stronger
 Yolov3 (Apr 8th, 2018): YOLOv3: An Incremental Improvement
+
 Yolov4 (Apr 23rd, 2020): YOLOv4: Optimal Speed and Accuracy of Object Detection
 Yolov5 (May 18th, 2020): Github repo (there is no paper as of Aug 1st, 2021)
